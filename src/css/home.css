@@ -43,6 +43,7 @@ a {
     white-space: nowrap;
 }
 
-.momoji{
+p{
     color: red;
+    font-weight: bold;
 }
